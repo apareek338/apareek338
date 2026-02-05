@@ -1,20 +1,98 @@
-<br><br>🛠️ I’m currently working on  <br>- Managing and scaling AWS cloud infrastructure  <br>- Kubernetes (Rancher / RKE2) cluster operations  <br>- Monitoring, logging, and incident response for production systems  <br><br>👯 I’m looking to collaborate on  <br>- Cloud & DevOps projects  <br>- Infrastructure automation (Terraform, CI/CD)  <br>- Open-source tools related to monitoring, logging, or security  <br><br>🤝 I’m looking for help with  <br>- Advanced Kubernetes internals  <br>- Cloud cost optimization strategies  <br>- Designing highly available, fault-tolerant systems  <br><br>🌱 I’m currently learning  <br>- Advanced Kubernetes & networking  <br>- Infrastructure as Code (Terraform) best practices  <br>- Cloud security & observability  <br><br>💬 Ask me about  <br>- AWS architecture & troubleshooting  <br>- Kubernetes, Docker, and Rancher  <br>- Monitoring (Zabbix, CloudWatch)  <br>- Incident management & RCA  <br><br>⚡ Fun fact  <br>- I love meditation 🧘‍♂️ and enjoy simplifying complex infra problems<br>
+# Hi, I'm Ajay Pareek 👋
 
+**TechOps Manager | Cloud & Linux Infrastructure Specialist | RHCA Certified**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pareek436) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaypareek0123@gmail.com) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=apareek338&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=apareek338&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=apareek338&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=apareek338&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Senior Server & Cloud Infrastructure / DevOps Professional with 8+ years of experience designing, securing & optimizing high-availability Linux platforms across financial services, telecom, and healthcare sectors.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=apareek338&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About Me
+
+- Currently working as **TechOps Manager** at **CodeMax, Goa**
+- Recognized as **Employee of the Month** for critical production support
+- Passionate about automation, infrastructure as code, and cloud-native technologies
+- Based in **Goa, India**
+
+---
+
+### Tech Stack
+
+**Cloud & AWS**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white)
+
+**DevOps & CI/CD**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Server & Networking**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=red-hat&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+
+**Monitoring & Security**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat&logo=nagios&logoColor=white)
+
+---
+
+### Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| RHCA (Red Hat Certified Architect) | Red Hat |
+| RHCE (Red Hat Certified Engineer) | Red Hat |
+| RHCSA (Red Hat Certified System Administrator) | Red Hat |
+| Red Hat Certified Specialist in Ansible Automation | Red Hat |
+| Red Hat Certified Specialist in OpenShift Administration | Red Hat |
+| Red Hat Certified Specialist in Containers & Kubernetes | Red Hat |
+| Red Hat Certified Specialist in Linux Diagnostics & Troubleshooting | Red Hat |
+| Red Hat Certified Specialist in Deployment & Systems Management | Red Hat |
+| Certified Ethical Hacker (CEH) | EC-Council |
+
+---
+
+### Work Experience
+
+**TechOps Manager** - CodeMax, Goa *(Jul 2020 – Present)*
+- Building & maintaining AWS infra using Terraform & CloudFormation
+- Managing CI/CD pipelines with Jenkins, GitLab CI, and ArgoCD
+- Orchestrating containers with Kubernetes and Docker Swarm
+
+**Senior System Administrator** - CloudNet Technologies *(Mar 2018 – Jun 2020)*
+- Administered 200+ RHEL/CentOS servers
+- Implemented Ansible automation reducing manual tasks by 60%
+
+**Linux Administrator** - InfraTech Solutions *(Jan 2016 – Feb 2018)*
+- Managed Apache, Nginx, and MySQL on production servers
+- Configured Nagios monitoring for 50+ servers
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apareek338&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apareek338&layout=compact&theme=tokyonight)
+
+---
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/ajay-pareek-32033589)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AjayPar84239289)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pareek436)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaypareek0123@gmail.com)
+
+---
+
+*"Simplifying complex infrastructure, one automation at a time."*
